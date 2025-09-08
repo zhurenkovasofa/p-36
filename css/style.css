@@ -7,4 +7,13 @@ p{
     font-size: 24px;
     font-style: italic;
     text-decoration: underline;
+
+}
+.logo{
+    border: 2px solid rgb(255, 0, 64);
+}
+hr{
+    width: 50%;
+    background-color: blueviolet;
+
 }
